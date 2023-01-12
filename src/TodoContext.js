@@ -9,7 +9,7 @@ const initialTodos = [
   {
     id: 2,
     text: '숙제하기',
-    done: true,
+    done: false,
   },
   {
     id: 3,
@@ -17,7 +17,7 @@ const initialTodos = [
     done: false,
   },
   {
-    id: 2,
+    id: 4,
     text: '신문 읽기',
     done: false,
   },
